@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
