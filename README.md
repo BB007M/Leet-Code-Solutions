@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0090-subsets-ii) |
+| [0322-coin-change](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0322-coin-change) |
 | [0905-sort-array-by-parity](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/BB007M/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Backtracking
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -77,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
