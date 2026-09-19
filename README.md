@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0090-subsets-ii) |
 | [0905-sort-array-by-parity](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0905-sort-array-by-parity) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
