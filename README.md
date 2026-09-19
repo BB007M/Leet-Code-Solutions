@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
