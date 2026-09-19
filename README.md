@@ -19,8 +19,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0231-power-of-two) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
