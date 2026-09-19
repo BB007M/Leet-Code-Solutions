@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0090-subsets-ii) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/BB007M/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
