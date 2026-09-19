@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0090-subsets-ii) |
+| [0905-sort-array-by-parity](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/BB007M/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Backtracking
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
