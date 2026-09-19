@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
