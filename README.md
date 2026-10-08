@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0322-coin-change](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0518-coin-change-ii) |
 | [0905-sort-array-by-parity](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -107,8 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
