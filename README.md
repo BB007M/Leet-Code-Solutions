@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/BB007M/Leet-Code-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/BB007M/Leet-Code-Solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/BB007M/Leet-Code-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
