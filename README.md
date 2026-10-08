@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0078-subsets) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0077-combinations) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0047-permutations-ii) |
 | [0905-sort-array-by-parity](https://github.com/BB007M/Leet-Code-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
